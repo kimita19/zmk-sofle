@@ -128,7 +128,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - '0'
-  - KP DOT
+  - .
   - {t: '$$mdi:transfer$$', type: trans}
   '2':
   - F12
