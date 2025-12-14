@@ -13,7 +13,7 @@ jobs:
     permissions:
       contents: write
     with:
-      keymap_patterns: "config/*.keymap"
+      keymap_patterns: "config/eyelash_sofle.keymap"
       output_folder: "keymap-drawer"
       config_path: "keymap_drawer.config.yaml"
       amend_commit: true
